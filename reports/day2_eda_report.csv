@@ -1,0 +1,25 @@
+Split,Class,Total Images,Valid Images,Invalid Images,Avg Width,Avg Height,Invalid per
+train,Early_blight,347,347,0,256.0,256.0,0.0
+train,Healthy,151,151,0,256.0,256.0,0.0
+train,Late_blight,632,632,0,256.0,256.0,0.0
+train,Leaf Miner,716,716,0,256.0,256.0,0.0
+train,Magnesium Deficiency,654,654,0,256.0,256.0,0.0
+train,Nitrogen Deficiency,251,251,0,256.0,256.0,0.0
+train,Pottassium Deficiency,50,50,0,256.0,256.0,0.0
+train,Spotted Wilt Virus,361,361,0,256.0,256.0,0.0
+val,Early_blight,99,99,0,256.0,256.0,0.0
+val,Healthy,43,43,0,256.0,256.0,0.0
+val,Late_blight,180,180,0,256.0,256.0,0.0
+val,Leaf Miner,204,204,0,256.0,256.0,0.0
+val,Magnesium Deficiency,187,187,0,256.0,256.0,0.0
+val,Nitrogen Deficiency,72,72,0,256.0,256.0,0.0
+val,Pottassium Deficiency,14,14,0,256.0,256.0,0.0
+val,Spotted Wilt Virus,103,103,0,256.0,256.0,0.0
+test,Early_blight,50,50,0,256.0,256.0,0.0
+test,Healthy,22,22,0,256.0,256.0,0.0
+test,Late_blight,92,92,0,256.0,256.0,0.0
+test,Leaf Miner,104,104,0,256.0,256.0,0.0
+test,Magnesium Deficiency,95,95,0,256.0,256.0,0.0
+test,Nitrogen Deficiency,37,37,0,256.0,256.0,0.0
+test,Pottassium Deficiency,8,8,0,256.0,256.0,0.0
+test,Spotted Wilt Virus,53,53,0,256.0,256.0,0.0
